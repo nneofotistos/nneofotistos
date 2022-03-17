@@ -1,4 +1,6 @@
-### Hi there 👋
+They/Them
+
+Javascript, React, HTML5, CSS3, Python, Flask, Node.js, Express.js, MongoDB, Mongoose, Django, npm, ejs
 
 <!--
 **nneofotistos/nneofotistos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
